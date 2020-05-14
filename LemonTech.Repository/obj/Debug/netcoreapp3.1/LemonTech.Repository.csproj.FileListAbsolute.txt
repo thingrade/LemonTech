@@ -1,0 +1,12 @@
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\obj\Debug\netcoreapp3.1\LemonTech.Repository.AssemblyInfoInputs.cache
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\obj\Debug\netcoreapp3.1\LemonTech.Repository.AssemblyInfo.cs
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\bin\Debug\netcoreapp3.1\LemonTech.Repository.deps.json
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\bin\Debug\netcoreapp3.1\LemonTech.Repository.dll
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\bin\Debug\netcoreapp3.1\LemonTech.Repository.pdb
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\bin\Debug\netcoreapp3.1\Lemontech.DataLayer.dll
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\bin\Debug\netcoreapp3.1\Lemontech.DataLayer.pdb
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\obj\Debug\netcoreapp3.1\LemonTech.Repository.csprojAssemblyReference.cache
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\obj\Debug\netcoreapp3.1\LemonTech.Repository.csproj.CoreCompileInputs.cache
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\obj\Debug\netcoreapp3.1\LemonTech.Repository.csproj.CopyComplete
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\obj\Debug\netcoreapp3.1\LemonTech.Repository.dll
+F:\JQD\lemon_test\LemonTech\LemonTech.Repository\obj\Debug\netcoreapp3.1\LemonTech.Repository.pdb

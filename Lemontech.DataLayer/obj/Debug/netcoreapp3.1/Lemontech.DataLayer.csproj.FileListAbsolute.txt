@@ -1,0 +1,12 @@
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\bin\Debug\netcoreapp3.1\Lemontech.DataLayer.deps.json
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\bin\Debug\netcoreapp3.1\Lemontech.DataLayer.dll
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\bin\Debug\netcoreapp3.1\Lemontech.DataLayer.pdb
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\obj\Debug\netcoreapp3.1\Lemontech.DataLayer.csprojAssemblyReference.cache
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\obj\Debug\netcoreapp3.1\Lemontech.DataLayer.AssemblyInfoInputs.cache
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\obj\Debug\netcoreapp3.1\Lemontech.DataLayer.AssemblyInfo.cs
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\obj\Debug\netcoreapp3.1\Lemontech.DataLayer.dll
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\obj\Debug\netcoreapp3.1\Lemontech.DataLayer.pdb
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\bin\Debug\netcoreapp3.1\Lemontech.DataLayer.runtimeconfig.json
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\bin\Debug\netcoreapp3.1\Lemontech.DataLayer.runtimeconfig.dev.json
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\obj\Debug\netcoreapp3.1\Lemontech.DataLayer.genruntimeconfig.cache
+F:\JQD\lemon_test\LemonTech\Lemontech.DataLayer\obj\Debug\netcoreapp3.1\Lemontech.DataLayer.csproj.CoreCompileInputs.cache
