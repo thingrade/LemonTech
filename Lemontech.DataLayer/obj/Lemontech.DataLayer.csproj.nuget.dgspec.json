@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\JQD\\lemon_test\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj": {}
+    "F:\\JQD\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj": {}
   },
   "projects": {
-    "F:\\JQD\\lemon_test\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj": {
+    "F:\\JQD\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\JQD\\lemon_test\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj",
+        "projectUniqueName": "F:\\JQD\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj",
         "projectName": "Lemontech.DataLayer",
-        "projectPath": "F:\\JQD\\lemon_test\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj",
+        "projectPath": "F:\\JQD\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\JQD\\lemon_test\\LemonTech\\Lemontech.DataLayer\\obj\\",
+        "outputPath": "F:\\JQD\\LemonTech\\Lemontech.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

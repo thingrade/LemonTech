@@ -5261,11 +5261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\JQD\\lemon_test\\LemonTech\\LemonTech.Repository\\LemonTech.Repository.csproj",
+      "projectUniqueName": "F:\\JQD\\LemonTech\\LemonTech.Repository\\LemonTech.Repository.csproj",
       "projectName": "LemonTech.Repository",
-      "projectPath": "F:\\JQD\\lemon_test\\LemonTech\\LemonTech.Repository\\LemonTech.Repository.csproj",
+      "projectPath": "F:\\JQD\\LemonTech\\LemonTech.Repository\\LemonTech.Repository.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\JQD\\lemon_test\\LemonTech\\LemonTech.Repository\\obj\\",
+      "outputPath": "F:\\JQD\\LemonTech\\LemonTech.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5284,8 +5284,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\JQD\\lemon_test\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj": {
-              "projectPath": "F:\\JQD\\lemon_test\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj"
+            "F:\\JQD\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj": {
+              "projectPath": "F:\\JQD\\LemonTech\\Lemontech.DataLayer\\Lemontech.DataLayer.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TM/LVtetyQNY3DNzvKfxuxegjosQ0DB6R4stuxGdALySutP6NJP195Y/8XDiEanEfEMX7HFUvL/1fknCERla9A==",
+  "dgSpecHash": "AQ7Mo1nqSvgGoC49YKeY0TIuaK5p0BWhaLERaXKjZga+Wl/WZwPeXrji6wMav53M9zX4WzdPc6dlQY/NxPXC8g==",
   "success": true,
-  "projectFilePath": "F:\\JQD\\lemon_test\\LemonTech\\LemonTech.Repository\\LemonTech.Repository.csproj",
+  "projectFilePath": "F:\\JQD\\LemonTech\\LemonTech.Repository\\LemonTech.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.4\\microsoft.aspnetcore.cryptography.internal.3.1.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.4\\microsoft.aspnetcore.cryptography.keyderivation.3.1.4.nupkg.sha512",
